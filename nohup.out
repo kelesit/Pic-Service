@@ -1,0 +1,6 @@
+INFO:     Will watch for changes in these directories: ['/root/Pic-Service']
+INFO:     Uvicorn running on http://0.0.0.0:6006 (Press CTRL+C to quit)
+INFO:     Started reloader process [12389] using WatchFiles
+INFO:     Started server process [12421]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

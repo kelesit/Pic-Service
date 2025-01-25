@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 class ServiceConfig:
     HOST = "0.0.0.0"  
-    PORT = 9758
+    PORT = 6006
     API_KEY = "hsyzhendeshuai"  
 
 
